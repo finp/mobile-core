@@ -3,7 +3,7 @@
 
 
  
-== CSV table
+== Proposed moves
  
 [format="csv", options="header"]
 |===
