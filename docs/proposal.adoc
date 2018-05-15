@@ -3,13 +3,16 @@
 
 
  
-== Proposed moves
+== Proposed Changes
  
 [format="csv", options="header"]
 |===
 Source file, Dest repo, Antora Module, Action
+
 link:../docs/walkthroughs/installing-mobile-cli.adoc[] , link:{ag}mobile-cli[], ROOT, Move
+
 link:../docs/walkthroughs/developing-apbs-locally.adoc[] , link:{ag}processes[], contrib, Move
+
 link:../docs/walkthroughs/developing-ui-locally.adoc[] , link:{ag}processes[], contrib, Move
 
 link:../docs/onboarding/onboarding.adoc[] , link:{ag}processes[], contrib, Move
