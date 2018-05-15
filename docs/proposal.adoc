@@ -28,5 +28,7 @@ link:../docs/walkthroughs/setting-an-external-dmz-url.adoc[] , link:{ag}mobile-d
 
 link:../docs/architecture/architecture-overview.adoc[] , na, na, stay
 
+link:../docs/walkthroughs/provision-mobile-ci-cd.adoc[] , link:{agc}aerogear-digger-apb[], ROOT, Move
+
 |===
 
